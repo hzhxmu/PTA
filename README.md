@@ -1,5 +1,10 @@
 # Prototype-Based Test-Time Adaptation of Vision-Language Models
 
+![image](https://github.com/hzhxmu/PTA/blob/main/docs/PTA.png)
+
+### News
+- **2026.05.01**:🔥PTA has been accepted to ICML 2026!  [[Paper]](https://arxiv.org/abs/2604.21360)
+
 ### Install
 
 - Conda environment of image recognition tasks (recommended).
