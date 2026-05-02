@@ -108,5 +108,18 @@ bash ./PTA_point/scripts/eval_pta.sh 0 ulip weights/ulip/pointbert_ulip1.pt mode
 bash ./PTA_point/scripts/eval_pta.sh 0 ulip weights/ulip/pointbert_ulip1.pt sonn_c obj_only 1024 vitg14 ulip1 so_obj_only_9
 ```
 
+### Citation
+If you find PTA useful for your research, please cite using this BibTeX:
+```
+@misc{huang2026prototypebasedtesttimeadaptationvisionlanguage,
+      title={Prototype-Based Test-Time Adaptation of Vision-Language Models}, 
+      author={Zhaohong Huang and Yuxin Zhang and Wenjing Liu and Fei Chao and Rongrong Ji},
+      year={2026},
+      eprint={2604.21360},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.21360}, 
+}
+```
 
 
